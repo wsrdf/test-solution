@@ -28,7 +28,7 @@
 ### Пример вывода
 
 ```bash
-$ test % ./run.sh https://dn710100.ca.archive.org/0/items/kendrick-lamar-damn_202411/1-booklet%2001.jpg
+$ ./run.sh https://dn710100.ca.archive.org/0/items/kendrick-lamar-damn_202411/1-booklet%2001.jpg
 
 Testing URL: https://dn710100.ca.archive.org/0/items/kendrick-lamar-damn_202411/1-booklet%2001.jpg
 Making 10 sequential requests...
